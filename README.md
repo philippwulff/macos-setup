@@ -9,4 +9,4 @@
 [Installation](https://guide.macports.org/chunked/installing.macports.html)
 
 brew install --cask cmake
-
+brew install node             # NodeJS
